@@ -1,0 +1,7 @@
+D:\Distrib\Adel\Прога\Lesson_21.10\Domashka_21.10\bin\Debug\Domashka_21.10.exe.config
+D:\Distrib\Adel\Прога\Lesson_21.10\Domashka_21.10\bin\Debug\Domashka_21.10.exe
+D:\Distrib\Adel\Прога\Lesson_21.10\Domashka_21.10\bin\Debug\Domashka_21.10.pdb
+D:\Distrib\Adel\Прога\Lesson_21.10\Domashka_21.10\obj\Debug\Domashka_21.10.csproj.AssemblyReference.cache
+D:\Distrib\Adel\Прога\Lesson_21.10\Domashka_21.10\obj\Debug\Domashka_21.10.csproj.CoreCompileInputs.cache
+D:\Distrib\Adel\Прога\Lesson_21.10\Domashka_21.10\obj\Debug\Domashka_21.10.exe
+D:\Distrib\Adel\Прога\Lesson_21.10\Domashka_21.10\obj\Debug\Domashka_21.10.pdb
